@@ -1,0 +1,13 @@
+import logo from './logo.svg';
+import './App.css';
+import BTDatVeXemPhim from './Components/BTDatVeXemPhim';
+
+function App() {
+  return (
+    <div className="App">
+      <BTDatVeXemPhim />
+    </div>
+  );
+}
+
+export default App;
